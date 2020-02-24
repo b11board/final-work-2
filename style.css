@@ -1,0 +1,135 @@
+header{
+    text-align: center;
+}
+nav{
+    height:60px;
+    background:silver
+}
+.btn-group{
+    margin-top: 10px;
+}
+.font-family{
+    margin-left:10px ;
+}
+.f1{
+    font-family: Arial;
+}
+.f2{
+    font-family: Georgia;
+}
+.f3{
+    font-family: Impact;
+}
+
+.f4{
+    font-family: 'Times New Roman';
+}
+.f5{
+    font-family: Verdana;
+}
+.font-size{
+    margin-left:10px ;
+}
+.s1{
+    font-size: 12px;
+}
+.s2{
+    font-size: 14px;
+}
+.s3{
+    font-size: 16px;
+}
+.s4{
+    font-size: 18px;
+}
+.s5{
+    font-size: 20px;
+}
+.s6{
+    font-size: 22px;
+}
+.s7{
+    font-size: 25px;
+}
+.s8{
+    font-size: 30px;
+}
+.form-check-input8{
+    margin-left: 10px;
+}
+#colors{
+    width: 100%;
+    height: 250px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row; 
+}
+.red{
+    height: 50px;
+    width: 200px;
+    background-color: red;
+    border: 2px outset black;
+    margin-left: 20px;
+}
+.green{
+    height: 50px;
+    width: 200px;
+    background-color: green;
+    border: 2px outset black;
+    margin-left: 20px;
+}
+.blue{
+    height: 50px;
+    width: 200px;
+    background-color: blue;
+    border: 2px outset black;
+    margin-left: 20px;
+}
+.aquamarine{
+    height: 50px;
+    width: 200px;
+    background-color: aquamarine;
+    border: 2px outset black;
+    margin-left: 20px;
+}
+.crimson{
+    height: 50px;
+    width: 200px;
+    background-color: crimson;
+    border: 2px outset black;
+    margin-left: 20px;
+}
+.purple{
+    height: 50px;
+    width: 200px;
+    background-color: purple;
+    border: 2px outset black;
+    margin-left: 20px;
+}
+.khaki{
+    height: 50px;
+    width: 200px;
+    background-color: khaki;
+    border: 2px outset black;
+    margin-left: 20px;
+}
+.coral{
+    height: 50px;
+    width: 200px;
+    background-color:coral;
+    border: 2px outset black;
+    margin-left: 20px;
+}
+.deepskyblue{
+    height: 50px;
+    width: 200px;
+    background-color: deepskyblue;
+    border: 2px outset black;
+    margin-left: 20px;
+}
+.par1{
+    display: none;
+}
+.par2{
+    display: none;
+}
